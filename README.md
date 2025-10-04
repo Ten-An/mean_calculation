@@ -1,5 +1,6 @@
 # mean_calculation
 This is a project to calculate mean value of list
+<<<<<<< HEAD
 
 # Calculation_Mean
 
@@ -56,3 +57,5 @@ Admin
 ## Licence
 
 MIT
+=======
+>>>>>>> 40c3eefe024505d6fbff968548e8d6c7b3b5da93
